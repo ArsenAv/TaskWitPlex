@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "Registration Home",
+    "mongoUri": "mongodb+srv://arsen:12345@cluster0.xtq4e.mongodb.net/app?retryWrites=true&w=majority"
+}
